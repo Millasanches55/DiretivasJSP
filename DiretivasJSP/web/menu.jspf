@@ -1,0 +1,8 @@
+<%@ page contentType="text/html; charset=UTF-8" language="java" %>
+<div style="text-align: center; margin-bottom: 20px;">
+    <a href="index.jsp">Início</a> |
+    <a href="juros-simples.jsp">Juros Simples</a> |
+    <a href="juros-compostos.jsp">Juros Compostos</a>
+</div>
+<hr>
+
